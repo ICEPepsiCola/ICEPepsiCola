@@ -21,7 +21,8 @@
 </p>
 
 ## Project & Website
-<p>🐻 <a href="[https://qiangmouren.github.io/joker-recaptcha/](https://icepepsicola.github.io/pug/)" style="font-size:1.2rem" target="_blank">PUG</a> |
+<p>
+ 🐻 <a href="https://icepepsicola.github.io/pug/" style="font-size:1.2rem" target="_blank">PUG</a> |
 </p>
 
 ## Contact ME
