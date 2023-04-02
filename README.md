@@ -24,7 +24,9 @@
 <p>
  🐻 <a href="https://icepepsicola.github.io/pug/" style="font-size:1.2rem" target="_blank">PUG</a> |
 </p>
-
+<p>
+ 🐯 <a href="https://github.com/ICEPepsiCola/vizzy" style="font-size:1.2rem" target="_blank">vizzy</a> |
+</p>
 ## Contact ME
 
 <p>
