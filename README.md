@@ -79,7 +79,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/ICEPepsiCola/ICEPepsiCola/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://icepepsicola.github.io/ICEPepsiCola/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 📫 Connect with me
