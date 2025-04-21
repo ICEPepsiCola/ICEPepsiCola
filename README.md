@@ -15,28 +15,12 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const ICEPepsiCola = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Go", "Python", "React", "Vue", "Node.js"],
-  askMeAbout: ["web dev", "tech", "app dev"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue"],
-      css: ["Tailwind", "Bootstrap", "SCSS"]
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-      go: ["Gin", "Echo"],
-      misc: ["Docker", "Kubernetes"]
-    },
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    devOps: ["AWS", "Docker", "Nginx", "K8s"]
-  },
-  currentFocus: "Building scalable web applications",
-  funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+- 👨‍💻 Full-stack developer passionate about web & app development
+- 🔭 Currently focused on building scalable web applications
+- 💻 Working with **JavaScript, TypeScript, Go, Python, React, Vue, Node.js**
+- 💬 Ask me about **web dev, tech, app dev**
+- 🛠️ Experienced with frontend (React, Vue, Tailwind, Bootstrap, SCSS), backend (Node, Express, Gin, Echo), databases (MongoDB, MySQL, PostgreSQL) and DevOps (AWS, Docker, Nginx, K8s)
+- ⚡ Fun fact: There are two ways to write error-free programs; only the third one works
 
 ## 🚀 Projects & Packages
 
